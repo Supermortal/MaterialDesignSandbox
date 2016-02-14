@@ -1,0 +1,6 @@
+[submodule "Supermortal.Common.PCL"]
+	path = Supermortal.Common.PCL
+	url = https://github.com/Supermortal/Supermortal.Common.PCL.git
+[submodule "Supermortal.Common.Droid.Classes"]
+	path = Supermortal.Common.Droid.Classes
+	url = https://github.com/Supermortal/Supermortal.Common.Droid.Classes.git
