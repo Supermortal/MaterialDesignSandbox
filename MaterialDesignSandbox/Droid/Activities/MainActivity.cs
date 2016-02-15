@@ -7,6 +7,8 @@ using Android.OS;
 
 using Supermortal.Common.Droid.Abstract;
 
+using MaterialDesignSandbox.Droid.Fragments;
+
 namespace MaterialDesignSandbox.Droid.Activities
 {
     [Activity(Label = "Material Design Sandbox", MainLauncher = true, Icon = "@mipmap/icon", Theme = "@style/MyTheme")]
@@ -21,6 +23,7 @@ namespace MaterialDesignSandbox.Droid.Activities
             SetSupportActionBar(toolbar);
             SupportActionBar.Title = Resources.GetString(Resource.String.app_name);
 
+            RegisterModule<HomeFragment>("Home");
             RegisterModule<TestFragment>("Test Module");
 
             SetupDrawer(Resource.Layout.DrawerItem, Resource.Id.left_drawer, Resource.Id.drawer_layout, Resource.String.app_name, Resource.String.app_name, Resource.Id.main);
@@ -28,6 +31,8 @@ namespace MaterialDesignSandbox.Droid.Activities
             {
                 ToggleDrawer();
             };
+
+            ShowFragment(0);
         }
     }
 }

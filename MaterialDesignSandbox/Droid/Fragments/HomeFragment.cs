@@ -16,21 +16,16 @@ using Supermortal.Common.Droid.Abstract;
 
 namespace MaterialDesignSandbox.Droid.Fragments
 {
-    public class TestFragment : ModuleFragment
+    public class HomeFragment : ModuleFragment
     {
         public override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
-            // Create your fragment here
         }
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
-            // Use this to return your custom view for this Fragment
-            return inflater.Inflate(Resource.Layout.TestFragment, container, false);
-
-            return base.OnCreateView(inflater, container, savedInstanceState);
+            return inflater.Inflate(Resource.Layout.HomeFragment, container, false);
         }
 
         public override void OnResume()
