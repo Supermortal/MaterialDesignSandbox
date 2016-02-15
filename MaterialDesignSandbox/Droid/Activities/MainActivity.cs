@@ -23,7 +23,7 @@ namespace MaterialDesignSandbox.Droid.Activities
 
             RegisterModule<TestFragment>("Test Module");
 
-            SetupDrawer(Resource.Layout.DrawerItem, Resource.Id.left_drawer, Resource.Id.drawer_layout, Resource.String.app_name, Resource.String.app_name);
+            SetupDrawer(Resource.Layout.DrawerItem, Resource.Id.left_drawer, Resource.Id.drawer_layout, Resource.String.app_name, Resource.String.app_name, Resource.Id.main);
             toolbar.Click += (object sender, System.EventArgs e) =>
             {
                 ToggleDrawer();
