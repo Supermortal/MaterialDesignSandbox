@@ -22,11 +22,29 @@
 		<item name="color">@color/accent</item>
 		<item name="spinBars">true</item>
 	</style>
-	<!--	<style name="TextLabel" parent="TextAppearance.AppCompat">
-		<item name="android:textColorHint">@color/text</item>
-		<item name="android:textSize">20dp</item>
-		<item name="colorAccent">@color/accent</item>
-		<item name="colorControlNormal">@color/main</item>
-		<item name="colorControlActivated">@color/accent</item>
-	</style>-->
+	<style name="CardViewStyle" parent="CardView">
+		<item name="android:layout_margin">10dp</item>
+		<item name="cardCornerRadius">5dp</item>
+		<item name="cardElevation">2dp</item>
+		<item name="cardPreventCornerOverlap">false</item>
+		<item name="contentPadding">10dp</item>
+		<item name="android:textColor">@color/main</item>
+	</style>
+	<style name="ButtonStyle">
+		<item name="android:stateListAnimator">@null</item>
+		<item name="android:elevation">20dp</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">#ffffff</item>
+		<item name="android:gravity">center</item>
+		<item name="android:layout_margin">3dp</item>
+		<item name="android:background">@color/button</item>
+		<item name="android:textColor">@color/text</item>
+		<!--		<item name="android:textSize">30dp</item>-->
+		<!--		<item name="android:textStyle">bold</item>-->
+		<!--		<item name="android:shadowColor">#000000</item>
+		<item name="android:shadowDx">1</item>
+		<item name="android:shadowDy">1</item>
+		<item name="android:shadowRadius">2</item>-->
+	</style>
 </resources>

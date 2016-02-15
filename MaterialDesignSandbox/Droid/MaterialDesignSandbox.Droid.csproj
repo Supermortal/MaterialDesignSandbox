@@ -96,10 +96,13 @@
     <AndroidResource Include="Resources\layout\TestFragment.axml" />
     <AndroidResource Include="Resources\layout\DrawerItem.axml" />
     <AndroidResource Include="Resources\layout\HomeFragment.axml" />
+    <AndroidResource Include="Resources\drawable\MainButton.xml" />
+    <AndroidResource Include="Resources\drawable\SecondaryButton.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <ItemGroup>
     <Folder Include="Activities\" />
     <Folder Include="Fragments\" />
+    <Folder Include="Resources\drawable\" />
   </ItemGroup>
 </Project>

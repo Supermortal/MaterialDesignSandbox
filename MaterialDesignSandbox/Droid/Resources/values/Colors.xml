@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<item type="color" name="main">#0f1b14</item>
-	<item type="color" name="accent">#dbdbdc</item>
+	<item type="color" name="accent">#d2a069</item>
 	<item type="color" name="dark">#655234</item>
 	<item type="color" name="background">#ffffff</item>
 	<item type="color" name="altBackground">#4d0c1b</item>
-	<item type="color" name="button">#655234</item>
+	<item type="color" name="button">#69807c</item>
+	<item type="color" name="buttonPressed">#869454</item>
+	<item type="color" name="secondaryButton">#581d49</item>
+	<item type="color" name="secondaryButtonPressed">#3d2865</item>
 	<item type="color" name="text">#ffffff</item>
 </resources>

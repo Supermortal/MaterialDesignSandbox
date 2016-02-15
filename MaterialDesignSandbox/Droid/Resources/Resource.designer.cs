@@ -2015,32 +2015,32 @@ namespace MaterialDesignSandbox.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0b0045
-			public const int abc_background_cache_hint_selector_material_dark = 2131427397;
+			// aapt resource value: 0x7f0b0048
+			public const int abc_background_cache_hint_selector_material_dark = 2131427400;
 			
-			// aapt resource value: 0x7f0b0046
-			public const int abc_background_cache_hint_selector_material_light = 2131427398;
+			// aapt resource value: 0x7f0b0049
+			public const int abc_background_cache_hint_selector_material_light = 2131427401;
 			
-			// aapt resource value: 0x7f0b0047
-			public const int abc_color_highlight_material = 2131427399;
+			// aapt resource value: 0x7f0b004a
+			public const int abc_color_highlight_material = 2131427402;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int abc_input_method_navigation_guard = 2131427328;
 			
-			// aapt resource value: 0x7f0b0048
-			public const int abc_primary_text_disable_only_material_dark = 2131427400;
-			
-			// aapt resource value: 0x7f0b0049
-			public const int abc_primary_text_disable_only_material_light = 2131427401;
-			
-			// aapt resource value: 0x7f0b004a
-			public const int abc_primary_text_material_dark = 2131427402;
-			
 			// aapt resource value: 0x7f0b004b
-			public const int abc_primary_text_material_light = 2131427403;
+			public const int abc_primary_text_disable_only_material_dark = 2131427403;
 			
 			// aapt resource value: 0x7f0b004c
-			public const int abc_search_url_text = 2131427404;
+			public const int abc_primary_text_disable_only_material_light = 2131427404;
+			
+			// aapt resource value: 0x7f0b004d
+			public const int abc_primary_text_material_dark = 2131427405;
+			
+			// aapt resource value: 0x7f0b004e
+			public const int abc_primary_text_material_light = 2131427406;
+			
+			// aapt resource value: 0x7f0b004f
+			public const int abc_search_url_text = 2131427407;
 			
 			// aapt resource value: 0x7f0b0001
 			public const int abc_search_url_text_normal = 2131427329;
@@ -2051,11 +2051,11 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0b0003
 			public const int abc_search_url_text_selected = 2131427331;
 			
-			// aapt resource value: 0x7f0b004d
-			public const int abc_secondary_text_material_dark = 2131427405;
+			// aapt resource value: 0x7f0b0050
+			public const int abc_secondary_text_material_dark = 2131427408;
 			
-			// aapt resource value: 0x7f0b004e
-			public const int abc_secondary_text_material_light = 2131427406;
+			// aapt resource value: 0x7f0b0051
+			public const int abc_secondary_text_material_light = 2131427409;
 			
 			// aapt resource value: 0x7f0b003f
 			public const int accent = 2131427391;
@@ -2104,6 +2104,9 @@ namespace MaterialDesignSandbox.Droid
 			
 			// aapt resource value: 0x7f0b0043
 			public const int button = 2131427395;
+			
+			// aapt resource value: 0x7f0b0044
+			public const int buttonPressed = 2131427396;
 			
 			// aapt resource value: 0x7f0b0010
 			public const int button_material_dark = 2131427344;
@@ -2225,6 +2228,12 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0b0031
 			public const int ripple_material_light = 2131427377;
 			
+			// aapt resource value: 0x7f0b0045
+			public const int secondaryButton = 2131427397;
+			
+			// aapt resource value: 0x7f0b0046
+			public const int secondaryButtonPressed = 2131427398;
+			
 			// aapt resource value: 0x7f0b0032
 			public const int secondary_text_default_material_dark = 2131427378;
 			
@@ -2243,11 +2252,11 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0b0037
 			public const int switch_thumb_disabled_material_light = 2131427383;
 			
-			// aapt resource value: 0x7f0b004f
-			public const int switch_thumb_material_dark = 2131427407;
+			// aapt resource value: 0x7f0b0052
+			public const int switch_thumb_material_dark = 2131427410;
 			
-			// aapt resource value: 0x7f0b0050
-			public const int switch_thumb_material_light = 2131427408;
+			// aapt resource value: 0x7f0b0053
+			public const int switch_thumb_material_light = 2131427411;
 			
 			// aapt resource value: 0x7f0b0038
 			public const int switch_thumb_normal_material_dark = 2131427384;
@@ -2255,8 +2264,8 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0b0039
 			public const int switch_thumb_normal_material_light = 2131427385;
 			
-			// aapt resource value: 0x7f0b0044
-			public const int text = 2131427396;
+			// aapt resource value: 0x7f0b0047
+			public const int text = 2131427399;
 			
 			static Color()
 			{
@@ -2804,7 +2813,13 @@ namespace MaterialDesignSandbox.Droid
 			public const int abc_textfield_search_material = 2130837572;
 			
 			// aapt resource value: 0x7f020045
-			public const int notification_template_icon_bg = 2130837573;
+			public const int MainButton = 2130837573;
+			
+			// aapt resource value: 0x7f020047
+			public const int notification_template_icon_bg = 2130837575;
+			
+			// aapt resource value: 0x7f020046
+			public const int SecondaryButton = 2130837574;
 			
 			static Drawable()
 			{
@@ -3901,6 +3916,9 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f090073
 			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131296371;
 			
+			// aapt resource value: 0x7f090139
+			public const int ButtonStyle = 2131296569;
+			
 			// aapt resource value: 0x7f090133
 			public const int CardView = 2131296563;
 			
@@ -3909,6 +3927,9 @@ namespace MaterialDesignSandbox.Droid
 			
 			// aapt resource value: 0x7f090135
 			public const int CardView_Light = 2131296565;
+			
+			// aapt resource value: 0x7f090138
+			public const int CardViewStyle = 2131296568;
 			
 			// aapt resource value: 0x7f090137
 			public const int MyDrawerArrowStyle = 2131296567;
