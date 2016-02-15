@@ -6,10 +6,24 @@
     <include
         android:id="@+id/toolbar"
         layout="@layout/toolbar" />
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:id="@+id/main_content"
-        android:layout_below="@id/toolbar" />
+    <android.support.v4.widget.DrawerLayout
+        android:layout_below="@id/toolbar"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    <!-- The Left Navigation Drawer -->
+        <ListView
+            android:id="@+id/left_drawer"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:choiceMode="singleChoice"
+            android:divider="@color/accent"
+            android:dividerHeight="1dp"
+            android:background="@color/altBackground" />
+    </android.support.v4.widget.DrawerLayout>
 </RelativeLayout>

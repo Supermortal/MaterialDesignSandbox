@@ -26,6 +26,1230 @@ namespace MaterialDesignSandbox.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_fade_in = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_fade_in;
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_fade_out = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_fade_out;
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_grow_fade_in_from_bottom = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_popup_enter = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_popup_enter;
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_popup_exit = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_popup_exit;
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_shrink_fade_out_from_bottom = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_slide_in_bottom = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_slide_in_top = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_slide_in_top;
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_slide_out_bottom = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Supermortal.Common.Droid.Classes.Resource.Animation.abc_slide_out_top = global::MaterialDesignSandbox.Droid.Resource.Animation.abc_slide_out_top;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarDivider = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarDivider;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarItemBackground = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarPopupTheme = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarSize = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarSize;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarSplitStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarTabBarStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarTabStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarTabTextStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarTheme = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionBarWidgetTheme = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionDropDownStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionMenuTextAppearance = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionMenuTextColor = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeBackground = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeCloseButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeCloseDrawable = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeCopyDrawable = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeCutDrawable = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeFindDrawable = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModePasteDrawable = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModePopupWindowStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeSelectAllDrawable = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeShareDrawable = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeSplitBackground = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionModeWebSearchDrawable = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionOverflowButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionOverflowMenuStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionProviderClass = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionProviderClass;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.actionViewClass = global::MaterialDesignSandbox.Droid.Resource.Attribute.actionViewClass;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.activityChooserViewStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.alertDialogButtonGroupStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.alertDialogCenterButtons = global::MaterialDesignSandbox.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.alertDialogStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.alertDialogStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.alertDialogTheme = global::MaterialDesignSandbox.Droid.Resource.Attribute.alertDialogTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.allowStacking = global::MaterialDesignSandbox.Droid.Resource.Attribute.allowStacking;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.arrowHeadLength = global::MaterialDesignSandbox.Droid.Resource.Attribute.arrowHeadLength;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.arrowShaftLength = global::MaterialDesignSandbox.Droid.Resource.Attribute.arrowShaftLength;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.autoCompleteTextViewStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.background = global::MaterialDesignSandbox.Droid.Resource.Attribute.background;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.backgroundSplit = global::MaterialDesignSandbox.Droid.Resource.Attribute.backgroundSplit;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.backgroundStacked = global::MaterialDesignSandbox.Droid.Resource.Attribute.backgroundStacked;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.backgroundTint = global::MaterialDesignSandbox.Droid.Resource.Attribute.backgroundTint;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.backgroundTintMode = global::MaterialDesignSandbox.Droid.Resource.Attribute.backgroundTintMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.barLength = global::MaterialDesignSandbox.Droid.Resource.Attribute.barLength;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.borderlessButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonBarButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonBarNegativeButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonBarNeutralButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonBarPositiveButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonBarStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonPanelSideLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonStyleSmall = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonTint = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonTint;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.buttonTintMode = global::MaterialDesignSandbox.Droid.Resource.Attribute.buttonTintMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.checkboxStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.checkboxStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.checkedTextViewStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.closeIcon = global::MaterialDesignSandbox.Droid.Resource.Attribute.closeIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.closeItemLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.closeItemLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.collapseContentDescription = global::MaterialDesignSandbox.Droid.Resource.Attribute.collapseContentDescription;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.collapseIcon = global::MaterialDesignSandbox.Droid.Resource.Attribute.collapseIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.color = global::MaterialDesignSandbox.Droid.Resource.Attribute.color;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.colorAccent = global::MaterialDesignSandbox.Droid.Resource.Attribute.colorAccent;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.colorButtonNormal = global::MaterialDesignSandbox.Droid.Resource.Attribute.colorButtonNormal;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.colorControlActivated = global::MaterialDesignSandbox.Droid.Resource.Attribute.colorControlActivated;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.colorControlHighlight = global::MaterialDesignSandbox.Droid.Resource.Attribute.colorControlHighlight;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.colorControlNormal = global::MaterialDesignSandbox.Droid.Resource.Attribute.colorControlNormal;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.colorPrimary = global::MaterialDesignSandbox.Droid.Resource.Attribute.colorPrimary;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.colorPrimaryDark = global::MaterialDesignSandbox.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.colorSwitchThumbNormal = global::MaterialDesignSandbox.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.commitIcon = global::MaterialDesignSandbox.Droid.Resource.Attribute.commitIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.contentInsetEnd = global::MaterialDesignSandbox.Droid.Resource.Attribute.contentInsetEnd;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.contentInsetLeft = global::MaterialDesignSandbox.Droid.Resource.Attribute.contentInsetLeft;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.contentInsetRight = global::MaterialDesignSandbox.Droid.Resource.Attribute.contentInsetRight;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.contentInsetStart = global::MaterialDesignSandbox.Droid.Resource.Attribute.contentInsetStart;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.controlBackground = global::MaterialDesignSandbox.Droid.Resource.Attribute.controlBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.customNavigationLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.customNavigationLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.defaultQueryHint = global::MaterialDesignSandbox.Droid.Resource.Attribute.defaultQueryHint;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.dialogPreferredPadding = global::MaterialDesignSandbox.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.dialogTheme = global::MaterialDesignSandbox.Droid.Resource.Attribute.dialogTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.displayOptions = global::MaterialDesignSandbox.Droid.Resource.Attribute.displayOptions;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.divider = global::MaterialDesignSandbox.Droid.Resource.Attribute.divider;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.dividerHorizontal = global::MaterialDesignSandbox.Droid.Resource.Attribute.dividerHorizontal;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.dividerPadding = global::MaterialDesignSandbox.Droid.Resource.Attribute.dividerPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.dividerVertical = global::MaterialDesignSandbox.Droid.Resource.Attribute.dividerVertical;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.drawableSize = global::MaterialDesignSandbox.Droid.Resource.Attribute.drawableSize;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.drawerArrowStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.dropDownListViewStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.dropdownListPreferredItemHeight = global::MaterialDesignSandbox.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.editTextBackground = global::MaterialDesignSandbox.Droid.Resource.Attribute.editTextBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.editTextColor = global::MaterialDesignSandbox.Droid.Resource.Attribute.editTextColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.editTextStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.editTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.elevation = global::MaterialDesignSandbox.Droid.Resource.Attribute.elevation;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.expandActivityOverflowButtonDrawable = global::MaterialDesignSandbox.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.gapBetweenBars = global::MaterialDesignSandbox.Droid.Resource.Attribute.gapBetweenBars;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.goIcon = global::MaterialDesignSandbox.Droid.Resource.Attribute.goIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.height = global::MaterialDesignSandbox.Droid.Resource.Attribute.height;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.hideOnContentScroll = global::MaterialDesignSandbox.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.homeAsUpIndicator = global::MaterialDesignSandbox.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.homeLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.homeLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.icon = global::MaterialDesignSandbox.Droid.Resource.Attribute.icon;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.iconifiedByDefault = global::MaterialDesignSandbox.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.imageButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.imageButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.indeterminateProgressStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.initialActivityCount = global::MaterialDesignSandbox.Droid.Resource.Attribute.initialActivityCount;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.isLightTheme = global::MaterialDesignSandbox.Droid.Resource.Attribute.isLightTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.itemPadding = global::MaterialDesignSandbox.Droid.Resource.Attribute.itemPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.layout = global::MaterialDesignSandbox.Droid.Resource.Attribute.layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listChoiceBackgroundIndicator = global::MaterialDesignSandbox.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listDividerAlertDialog = global::MaterialDesignSandbox.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listItemLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.listItemLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.listLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listPopupWindowStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listPreferredItemHeight = global::MaterialDesignSandbox.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listPreferredItemHeightLarge = global::MaterialDesignSandbox.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listPreferredItemHeightSmall = global::MaterialDesignSandbox.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listPreferredItemPaddingLeft = global::MaterialDesignSandbox.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.listPreferredItemPaddingRight = global::MaterialDesignSandbox.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.logo = global::MaterialDesignSandbox.Droid.Resource.Attribute.logo;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.logoDescription = global::MaterialDesignSandbox.Droid.Resource.Attribute.logoDescription;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.maxButtonHeight = global::MaterialDesignSandbox.Droid.Resource.Attribute.maxButtonHeight;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.measureWithLargestChild = global::MaterialDesignSandbox.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.multiChoiceItemLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.navigationContentDescription = global::MaterialDesignSandbox.Droid.Resource.Attribute.navigationContentDescription;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.navigationIcon = global::MaterialDesignSandbox.Droid.Resource.Attribute.navigationIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.navigationMode = global::MaterialDesignSandbox.Droid.Resource.Attribute.navigationMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.overlapAnchor = global::MaterialDesignSandbox.Droid.Resource.Attribute.overlapAnchor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.paddingEnd = global::MaterialDesignSandbox.Droid.Resource.Attribute.paddingEnd;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.paddingStart = global::MaterialDesignSandbox.Droid.Resource.Attribute.paddingStart;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.panelBackground = global::MaterialDesignSandbox.Droid.Resource.Attribute.panelBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.panelMenuListTheme = global::MaterialDesignSandbox.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.panelMenuListWidth = global::MaterialDesignSandbox.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.popupMenuStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.popupMenuStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.popupTheme = global::MaterialDesignSandbox.Droid.Resource.Attribute.popupTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.popupWindowStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.popupWindowStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.preserveIconSpacing = global::MaterialDesignSandbox.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.progressBarPadding = global::MaterialDesignSandbox.Droid.Resource.Attribute.progressBarPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.progressBarStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.progressBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.queryBackground = global::MaterialDesignSandbox.Droid.Resource.Attribute.queryBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.queryHint = global::MaterialDesignSandbox.Droid.Resource.Attribute.queryHint;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.radioButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.radioButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.ratingBarStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.ratingBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.searchHintIcon = global::MaterialDesignSandbox.Droid.Resource.Attribute.searchHintIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.searchIcon = global::MaterialDesignSandbox.Droid.Resource.Attribute.searchIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.searchViewStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.searchViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.seekBarStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.seekBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.selectableItemBackground = global::MaterialDesignSandbox.Droid.Resource.Attribute.selectableItemBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.selectableItemBackgroundBorderless = global::MaterialDesignSandbox.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.showAsAction = global::MaterialDesignSandbox.Droid.Resource.Attribute.showAsAction;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.showDividers = global::MaterialDesignSandbox.Droid.Resource.Attribute.showDividers;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.showText = global::MaterialDesignSandbox.Droid.Resource.Attribute.showText;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.singleChoiceItemLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.spinBars = global::MaterialDesignSandbox.Droid.Resource.Attribute.spinBars;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.spinnerDropDownItemStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.spinnerStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.spinnerStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.splitTrack = global::MaterialDesignSandbox.Droid.Resource.Attribute.splitTrack;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.state_above_anchor = global::MaterialDesignSandbox.Droid.Resource.Attribute.state_above_anchor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.submitBackground = global::MaterialDesignSandbox.Droid.Resource.Attribute.submitBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.subtitle = global::MaterialDesignSandbox.Droid.Resource.Attribute.subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.subtitleTextAppearance = global::MaterialDesignSandbox.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.subtitleTextColor = global::MaterialDesignSandbox.Droid.Resource.Attribute.subtitleTextColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.subtitleTextStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.suggestionRowLayout = global::MaterialDesignSandbox.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.switchMinWidth = global::MaterialDesignSandbox.Droid.Resource.Attribute.switchMinWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.switchPadding = global::MaterialDesignSandbox.Droid.Resource.Attribute.switchPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.switchStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.switchStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.switchTextAppearance = global::MaterialDesignSandbox.Droid.Resource.Attribute.switchTextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.textAllCaps = global::MaterialDesignSandbox.Droid.Resource.Attribute.textAllCaps;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.textAppearanceLargePopupMenu = global::MaterialDesignSandbox.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.textAppearanceListItem = global::MaterialDesignSandbox.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.textAppearanceListItemSmall = global::MaterialDesignSandbox.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.textAppearanceSearchResultSubtitle = global::MaterialDesignSandbox.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.textAppearanceSearchResultTitle = global::MaterialDesignSandbox.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.textAppearanceSmallPopupMenu = global::MaterialDesignSandbox.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.textColorAlertDialogListItem = global::MaterialDesignSandbox.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.textColorSearchUrl = global::MaterialDesignSandbox.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.theme = global::MaterialDesignSandbox.Droid.Resource.Attribute.theme;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.thickness = global::MaterialDesignSandbox.Droid.Resource.Attribute.thickness;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.thumbTextPadding = global::MaterialDesignSandbox.Droid.Resource.Attribute.thumbTextPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.title = global::MaterialDesignSandbox.Droid.Resource.Attribute.title;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.titleMarginBottom = global::MaterialDesignSandbox.Droid.Resource.Attribute.titleMarginBottom;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.titleMarginEnd = global::MaterialDesignSandbox.Droid.Resource.Attribute.titleMarginEnd;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.titleMarginStart = global::MaterialDesignSandbox.Droid.Resource.Attribute.titleMarginStart;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.titleMarginTop = global::MaterialDesignSandbox.Droid.Resource.Attribute.titleMarginTop;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.titleMargins = global::MaterialDesignSandbox.Droid.Resource.Attribute.titleMargins;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.titleTextAppearance = global::MaterialDesignSandbox.Droid.Resource.Attribute.titleTextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.titleTextColor = global::MaterialDesignSandbox.Droid.Resource.Attribute.titleTextColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.titleTextStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.titleTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.toolbarNavigationButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.toolbarStyle = global::MaterialDesignSandbox.Droid.Resource.Attribute.toolbarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.track = global::MaterialDesignSandbox.Droid.Resource.Attribute.track;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.voiceIcon = global::MaterialDesignSandbox.Droid.Resource.Attribute.voiceIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowActionBar = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowActionBarOverlay = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowActionModeOverlay = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowFixedHeightMajor = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowFixedHeightMinor = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowFixedWidthMajor = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowFixedWidthMinor = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowMinWidthMajor = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowMinWidthMinor = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Supermortal.Common.Droid.Classes.Resource.Attribute.windowNoTitle = global::MaterialDesignSandbox.Droid.Resource.Attribute.windowNoTitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Boolean.abc_action_bar_embed_tabs = global::MaterialDesignSandbox.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Supermortal.Common.Droid.Classes.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb = global::MaterialDesignSandbox.Droid.Resource.Boolean.abc_action_bar_embed_tabs_pre_jb;
+			global::Supermortal.Common.Droid.Classes.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive = global::MaterialDesignSandbox.Droid.Resource.Boolean.abc_action_bar_expanded_action_views_exclusive;
+			global::Supermortal.Common.Droid.Classes.Resource.Boolean.abc_allow_stacked_button_bar = global::MaterialDesignSandbox.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Supermortal.Common.Droid.Classes.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::MaterialDesignSandbox.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Supermortal.Common.Droid.Classes.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon = global::MaterialDesignSandbox.Droid.Resource.Boolean.abc_config_allowActionMenuItemTextWithIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::MaterialDesignSandbox.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::Supermortal.Common.Droid.Classes.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::MaterialDesignSandbox.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_background_cache_hint_selector_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_background_cache_hint_selector_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_color_highlight_material = global::MaterialDesignSandbox.Droid.Resource.Color.abc_color_highlight_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_input_method_navigation_guard = global::MaterialDesignSandbox.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_primary_text_disable_only_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_primary_text_disable_only_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_primary_text_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_primary_text_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_search_url_text = global::MaterialDesignSandbox.Droid.Resource.Color.abc_search_url_text;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_search_url_text_normal = global::MaterialDesignSandbox.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_search_url_text_pressed = global::MaterialDesignSandbox.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_search_url_text_selected = global::MaterialDesignSandbox.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_secondary_text_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.abc_secondary_text_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.accent_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.accent_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.accent_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.accent_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.background_floating_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.background_floating_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.background_floating_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.background_floating_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.background_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.background_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.background_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.background_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.bright_foreground_disabled_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.bright_foreground_disabled_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.bright_foreground_inverse_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.bright_foreground_inverse_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.bright_foreground_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.bright_foreground_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.bright_foreground_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.button_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.button_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.button_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.button_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.dim_foreground_disabled_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.dim_foreground_disabled_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.dim_foreground_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.dim_foreground_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.dim_foreground_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.foreground_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.foreground_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.foreground_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.foreground_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.highlighted_text_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.highlighted_text_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.highlighted_text_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.hint_foreground_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.hint_foreground_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.hint_foreground_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.hint_foreground_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_blue_grey_800 = global::MaterialDesignSandbox.Droid.Resource.Color.material_blue_grey_800;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_blue_grey_900 = global::MaterialDesignSandbox.Droid.Resource.Color.material_blue_grey_900;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_blue_grey_950 = global::MaterialDesignSandbox.Droid.Resource.Color.material_blue_grey_950;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_deep_teal_200 = global::MaterialDesignSandbox.Droid.Resource.Color.material_deep_teal_200;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_deep_teal_500 = global::MaterialDesignSandbox.Droid.Resource.Color.material_deep_teal_500;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_grey_100 = global::MaterialDesignSandbox.Droid.Resource.Color.material_grey_100;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_grey_300 = global::MaterialDesignSandbox.Droid.Resource.Color.material_grey_300;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_grey_50 = global::MaterialDesignSandbox.Droid.Resource.Color.material_grey_50;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_grey_600 = global::MaterialDesignSandbox.Droid.Resource.Color.material_grey_600;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_grey_800 = global::MaterialDesignSandbox.Droid.Resource.Color.material_grey_800;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_grey_850 = global::MaterialDesignSandbox.Droid.Resource.Color.material_grey_850;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.material_grey_900 = global::MaterialDesignSandbox.Droid.Resource.Color.material_grey_900;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.primary_dark_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.primary_dark_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.primary_dark_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.primary_dark_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.primary_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.primary_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.primary_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.primary_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.primary_text_default_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.primary_text_default_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.primary_text_default_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.primary_text_disabled_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.primary_text_disabled_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.ripple_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.ripple_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.ripple_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.ripple_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.secondary_text_default_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.secondary_text_default_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.secondary_text_disabled_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.secondary_text_disabled_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.switch_thumb_disabled_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.switch_thumb_disabled_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.switch_thumb_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.switch_thumb_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.switch_thumb_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.switch_thumb_normal_material_dark = global::MaterialDesignSandbox.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Color.switch_thumb_normal_material_light = global::MaterialDesignSandbox.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_content_inset_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_default_height_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_default_padding_end_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_default_padding_start_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_progress_bar_size = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_stacked_max_height = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_button_min_height_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_button_min_width_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_action_button_min_width_overflow_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_alert_dialog_button_bar_height = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_button_inset_horizontal_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_button_inset_vertical_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_button_padding_horizontal_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_button_padding_vertical_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_config_prefDialogWidth = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_control_corner_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_control_inset_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_control_padding_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dialog_fixed_height_major = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dialog_fixed_height_minor = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dialog_fixed_width_major = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dialog_fixed_width_minor = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dialog_list_padding_vertical_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dialog_list_padding_vertical_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dialog_min_width_major = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dialog_min_width_minor = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dialog_padding_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dialog_padding_top_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_disabled_alpha_material_dark = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_disabled_alpha_material_light = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dropdownitem_icon_width = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dropdownitem_text_padding_left = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_dropdownitem_text_padding_right = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_edit_text_inset_bottom_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_edit_text_inset_top_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_floating_window_z = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_list_item_padding_horizontal_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_panel_menu_list_width = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_search_view_preferred_width = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_search_view_text_min_width = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_search_view_text_min_width;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_seekbar_track_background_height_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_seekbar_track_progress_height_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_select_dialog_padding_start_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_switch_padding = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_switch_padding;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_body_1_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_body_2_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_button_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_caption_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_display_1_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_display_2_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_display_3_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_display_4_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_headline_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_large_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_medium_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_menu_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_small_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_subhead_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_title_material = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.abc_text_size_title_material_toolbar = global::MaterialDesignSandbox.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.disabled_alpha_material_dark = global::MaterialDesignSandbox.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.disabled_alpha_material_light = global::MaterialDesignSandbox.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.highlight_alpha_material_colored = global::MaterialDesignSandbox.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.highlight_alpha_material_dark = global::MaterialDesignSandbox.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.highlight_alpha_material_light = global::MaterialDesignSandbox.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.notification_large_icon_height = global::MaterialDesignSandbox.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.notification_large_icon_width = global::MaterialDesignSandbox.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Supermortal.Common.Droid.Classes.Resource.Dimension.notification_subtext_size = global::MaterialDesignSandbox.Droid.Resource.Dimension.notification_subtext_size;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_action_bar_item_background_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_borderless_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_check_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_colored_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_default_mtrl_shape = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_radio_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_rating_star_off_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_rating_star_on_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_cab_background_internal_bg = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_cab_background_top_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_control_background_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_control_background_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_dialog_material_background_dark = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_dialog_material_background_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_dialog_material_background_light = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_dialog_material_background_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_edit_text_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_ab_back_mtrl_am_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_clear_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_clear_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_go_search_api_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_menu_moreoverflow_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_search_api_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_search_api_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ic_voice_search_api_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_item_background_holo_dark = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_item_background_holo_light = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_divider_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_focused_holo = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_longpressed_holo = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_pressed_holo_dark = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_pressed_holo_light = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_selector_disabled_holo_light = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_selector_holo_dark = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_list_selector_holo_light = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_popup_background_mtrl_mult = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_ratingbar_full_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_ratingbar_full_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_seekbar_thumb_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_seekbar_track_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_spinner_textfield_background_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_switch_thumb_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_switch_track_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_tab_indicator_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_text_cursor_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.abc_textfield_search_material = global::MaterialDesignSandbox.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Drawable.notification_template_icon_bg = global::MaterialDesignSandbox.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action0 = global::MaterialDesignSandbox.Droid.Resource.Id.action0;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_bar = global::MaterialDesignSandbox.Droid.Resource.Id.action_bar;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_bar_activity_content = global::MaterialDesignSandbox.Droid.Resource.Id.action_bar_activity_content;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_bar_container = global::MaterialDesignSandbox.Droid.Resource.Id.action_bar_container;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_bar_root = global::MaterialDesignSandbox.Droid.Resource.Id.action_bar_root;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_bar_spinner = global::MaterialDesignSandbox.Droid.Resource.Id.action_bar_spinner;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_bar_subtitle = global::MaterialDesignSandbox.Droid.Resource.Id.action_bar_subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_bar_title = global::MaterialDesignSandbox.Droid.Resource.Id.action_bar_title;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_context_bar = global::MaterialDesignSandbox.Droid.Resource.Id.action_context_bar;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_divider = global::MaterialDesignSandbox.Droid.Resource.Id.action_divider;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_menu_divider = global::MaterialDesignSandbox.Droid.Resource.Id.action_menu_divider;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_menu_presenter = global::MaterialDesignSandbox.Droid.Resource.Id.action_menu_presenter;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_mode_bar = global::MaterialDesignSandbox.Droid.Resource.Id.action_mode_bar;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_mode_bar_stub = global::MaterialDesignSandbox.Droid.Resource.Id.action_mode_bar_stub;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.action_mode_close_button = global::MaterialDesignSandbox.Droid.Resource.Id.action_mode_close_button;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.activity_chooser_view_content = global::MaterialDesignSandbox.Droid.Resource.Id.activity_chooser_view_content;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.alertTitle = global::MaterialDesignSandbox.Droid.Resource.Id.alertTitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.always = global::MaterialDesignSandbox.Droid.Resource.Id.always;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.beginning = global::MaterialDesignSandbox.Droid.Resource.Id.beginning;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.buttonPanel = global::MaterialDesignSandbox.Droid.Resource.Id.buttonPanel;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.cancel_action = global::MaterialDesignSandbox.Droid.Resource.Id.cancel_action;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.checkbox = global::MaterialDesignSandbox.Droid.Resource.Id.checkbox;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.chronometer = global::MaterialDesignSandbox.Droid.Resource.Id.chronometer;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.collapseActionView = global::MaterialDesignSandbox.Droid.Resource.Id.collapseActionView;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.contentPanel = global::MaterialDesignSandbox.Droid.Resource.Id.contentPanel;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.custom = global::MaterialDesignSandbox.Droid.Resource.Id.custom;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.customPanel = global::MaterialDesignSandbox.Droid.Resource.Id.customPanel;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.decor_content_parent = global::MaterialDesignSandbox.Droid.Resource.Id.decor_content_parent;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.default_activity_button = global::MaterialDesignSandbox.Droid.Resource.Id.default_activity_button;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.disableHome = global::MaterialDesignSandbox.Droid.Resource.Id.disableHome;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.edit_query = global::MaterialDesignSandbox.Droid.Resource.Id.edit_query;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.end = global::MaterialDesignSandbox.Droid.Resource.Id.end;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.end_padder = global::MaterialDesignSandbox.Droid.Resource.Id.end_padder;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.expand_activities_button = global::MaterialDesignSandbox.Droid.Resource.Id.expand_activities_button;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.expanded_menu = global::MaterialDesignSandbox.Droid.Resource.Id.expanded_menu;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.home = global::MaterialDesignSandbox.Droid.Resource.Id.home;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.homeAsUp = global::MaterialDesignSandbox.Droid.Resource.Id.homeAsUp;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.icon = global::MaterialDesignSandbox.Droid.Resource.Id.icon;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.ifRoom = global::MaterialDesignSandbox.Droid.Resource.Id.ifRoom;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.image = global::MaterialDesignSandbox.Droid.Resource.Id.image;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.info = global::MaterialDesignSandbox.Droid.Resource.Id.info;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.line1 = global::MaterialDesignSandbox.Droid.Resource.Id.line1;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.line3 = global::MaterialDesignSandbox.Droid.Resource.Id.line3;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.listMode = global::MaterialDesignSandbox.Droid.Resource.Id.listMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.list_item = global::MaterialDesignSandbox.Droid.Resource.Id.list_item;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.media_actions = global::MaterialDesignSandbox.Droid.Resource.Id.media_actions;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.middle = global::MaterialDesignSandbox.Droid.Resource.Id.middle;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.multiply = global::MaterialDesignSandbox.Droid.Resource.Id.multiply;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.never = global::MaterialDesignSandbox.Droid.Resource.Id.never;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.none = global::MaterialDesignSandbox.Droid.Resource.Id.none;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.normal = global::MaterialDesignSandbox.Droid.Resource.Id.normal;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.parentPanel = global::MaterialDesignSandbox.Droid.Resource.Id.parentPanel;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.progress_circular = global::MaterialDesignSandbox.Droid.Resource.Id.progress_circular;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.progress_horizontal = global::MaterialDesignSandbox.Droid.Resource.Id.progress_horizontal;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.radio = global::MaterialDesignSandbox.Droid.Resource.Id.radio;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.screen = global::MaterialDesignSandbox.Droid.Resource.Id.screen;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.scrollIndicatorDown = global::MaterialDesignSandbox.Droid.Resource.Id.scrollIndicatorDown;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.scrollIndicatorUp = global::MaterialDesignSandbox.Droid.Resource.Id.scrollIndicatorUp;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.scrollView = global::MaterialDesignSandbox.Droid.Resource.Id.scrollView;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_badge = global::MaterialDesignSandbox.Droid.Resource.Id.search_badge;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_bar = global::MaterialDesignSandbox.Droid.Resource.Id.search_bar;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_button = global::MaterialDesignSandbox.Droid.Resource.Id.search_button;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_close_btn = global::MaterialDesignSandbox.Droid.Resource.Id.search_close_btn;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_edit_frame = global::MaterialDesignSandbox.Droid.Resource.Id.search_edit_frame;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_go_btn = global::MaterialDesignSandbox.Droid.Resource.Id.search_go_btn;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_mag_icon = global::MaterialDesignSandbox.Droid.Resource.Id.search_mag_icon;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_plate = global::MaterialDesignSandbox.Droid.Resource.Id.search_plate;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_src_text = global::MaterialDesignSandbox.Droid.Resource.Id.search_src_text;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.search_voice_btn = global::MaterialDesignSandbox.Droid.Resource.Id.search_voice_btn;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.select_dialog_listview = global::MaterialDesignSandbox.Droid.Resource.Id.select_dialog_listview;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.shortcut = global::MaterialDesignSandbox.Droid.Resource.Id.shortcut;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.showCustom = global::MaterialDesignSandbox.Droid.Resource.Id.showCustom;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.showHome = global::MaterialDesignSandbox.Droid.Resource.Id.showHome;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.showTitle = global::MaterialDesignSandbox.Droid.Resource.Id.showTitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.spacer = global::MaterialDesignSandbox.Droid.Resource.Id.spacer;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.split_action_bar = global::MaterialDesignSandbox.Droid.Resource.Id.split_action_bar;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.src_atop = global::MaterialDesignSandbox.Droid.Resource.Id.src_atop;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.src_in = global::MaterialDesignSandbox.Droid.Resource.Id.src_in;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.src_over = global::MaterialDesignSandbox.Droid.Resource.Id.src_over;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.status_bar_latest_event_content = global::MaterialDesignSandbox.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.submit_area = global::MaterialDesignSandbox.Droid.Resource.Id.submit_area;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.tabMode = global::MaterialDesignSandbox.Droid.Resource.Id.tabMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.text = global::MaterialDesignSandbox.Droid.Resource.Id.text;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.text2 = global::MaterialDesignSandbox.Droid.Resource.Id.text2;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.textSpacerNoButtons = global::MaterialDesignSandbox.Droid.Resource.Id.textSpacerNoButtons;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.time = global::MaterialDesignSandbox.Droid.Resource.Id.time;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.title = global::MaterialDesignSandbox.Droid.Resource.Id.title;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.title_template = global::MaterialDesignSandbox.Droid.Resource.Id.title_template;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.topPanel = global::MaterialDesignSandbox.Droid.Resource.Id.topPanel;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.up = global::MaterialDesignSandbox.Droid.Resource.Id.up;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.useLogo = global::MaterialDesignSandbox.Droid.Resource.Id.useLogo;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.withText = global::MaterialDesignSandbox.Droid.Resource.Id.withText;
+			global::Supermortal.Common.Droid.Classes.Resource.Id.wrap_content = global::MaterialDesignSandbox.Droid.Resource.Id.wrap_content;
+			global::Supermortal.Common.Droid.Classes.Resource.Integer.abc_config_activityDefaultDur = global::MaterialDesignSandbox.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Supermortal.Common.Droid.Classes.Resource.Integer.abc_config_activityShortDur = global::MaterialDesignSandbox.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Supermortal.Common.Droid.Classes.Resource.Integer.abc_max_action_buttons = global::MaterialDesignSandbox.Droid.Resource.Integer.abc_max_action_buttons;
+			global::Supermortal.Common.Droid.Classes.Resource.Integer.cancel_button_image_alpha = global::MaterialDesignSandbox.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Integer.status_bar_notification_info_maxnum = global::MaterialDesignSandbox.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_action_bar_title_item = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_action_bar_up_container = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_action_bar_view_list_nav_layout = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_action_menu_item_layout = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_action_menu_layout = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_action_mode_bar = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_action_mode_close_item_material = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_activity_chooser_view = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_activity_chooser_view_list_item = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_alert_dialog_button_bar_material = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_alert_dialog_material = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_dialog_title_material = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_expanded_menu_layout = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_list_menu_item_checkbox = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_list_menu_item_icon = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_list_menu_item_layout = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_list_menu_item_radio = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_popup_menu_item_layout = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_screen_content_include = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_screen_content_include;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_screen_simple = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_screen_simple;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_screen_simple_overlay_action_mode = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_screen_toolbar = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_search_dropdown_item_icons_2line = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_search_view = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_search_view;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.abc_select_dialog_material = global::MaterialDesignSandbox.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.notification_media_action = global::MaterialDesignSandbox.Droid.Resource.Layout.notification_media_action;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.notification_media_cancel_action = global::MaterialDesignSandbox.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.notification_template_big_media = global::MaterialDesignSandbox.Droid.Resource.Layout.notification_template_big_media;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.notification_template_big_media_narrow = global::MaterialDesignSandbox.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.notification_template_lines = global::MaterialDesignSandbox.Droid.Resource.Layout.notification_template_lines;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.notification_template_media = global::MaterialDesignSandbox.Droid.Resource.Layout.notification_template_media;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.notification_template_part_chronometer = global::MaterialDesignSandbox.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.notification_template_part_time = global::MaterialDesignSandbox.Droid.Resource.Layout.notification_template_part_time;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.select_dialog_item_material = global::MaterialDesignSandbox.Droid.Resource.Layout.select_dialog_item_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.select_dialog_multichoice_material = global::MaterialDesignSandbox.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.select_dialog_singlechoice_material = global::MaterialDesignSandbox.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Supermortal.Common.Droid.Classes.Resource.Layout.support_simple_spinner_dropdown_item = global::MaterialDesignSandbox.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Supermortal.Common.Droid.Classes.Resource.String.ApplicationName = global::MaterialDesignSandbox.Droid.Resource.String.ApplicationName;
+			global::Supermortal.Common.Droid.Classes.Resource.String.Hello = global::MaterialDesignSandbox.Droid.Resource.String.Hello;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_action_bar_home_description = global::MaterialDesignSandbox.Droid.Resource.String.abc_action_bar_home_description;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_action_bar_home_description_format = global::MaterialDesignSandbox.Droid.Resource.String.abc_action_bar_home_description_format;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_action_bar_home_subtitle_description_format = global::MaterialDesignSandbox.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_action_bar_up_description = global::MaterialDesignSandbox.Droid.Resource.String.abc_action_bar_up_description;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_action_menu_overflow_description = global::MaterialDesignSandbox.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_action_mode_done = global::MaterialDesignSandbox.Droid.Resource.String.abc_action_mode_done;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_activity_chooser_view_see_all = global::MaterialDesignSandbox.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_activitychooserview_choose_application = global::MaterialDesignSandbox.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_capital_off = global::MaterialDesignSandbox.Droid.Resource.String.abc_capital_off;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_capital_on = global::MaterialDesignSandbox.Droid.Resource.String.abc_capital_on;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_search_hint = global::MaterialDesignSandbox.Droid.Resource.String.abc_search_hint;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_searchview_description_clear = global::MaterialDesignSandbox.Droid.Resource.String.abc_searchview_description_clear;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_searchview_description_query = global::MaterialDesignSandbox.Droid.Resource.String.abc_searchview_description_query;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_searchview_description_search = global::MaterialDesignSandbox.Droid.Resource.String.abc_searchview_description_search;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_searchview_description_submit = global::MaterialDesignSandbox.Droid.Resource.String.abc_searchview_description_submit;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_searchview_description_voice = global::MaterialDesignSandbox.Droid.Resource.String.abc_searchview_description_voice;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_shareactionprovider_share_with = global::MaterialDesignSandbox.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_shareactionprovider_share_with_application = global::MaterialDesignSandbox.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Supermortal.Common.Droid.Classes.Resource.String.abc_toolbar_collapse_description = global::MaterialDesignSandbox.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Supermortal.Common.Droid.Classes.Resource.String.library_name = global::MaterialDesignSandbox.Droid.Resource.String.library_name;
+			global::Supermortal.Common.Droid.Classes.Resource.String.status_bar_notification_info_overflow = global::MaterialDesignSandbox.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.AlertDialog_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.AlertDialog_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Animation_AppCompat_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Animation_AppCompat_DropDownUp = global::MaterialDesignSandbox.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_AlertDialog_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_AlertDialog_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Animation_AppCompat_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_DialogWindowTitle_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Button = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Large = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Small = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Title = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::MaterialDesignSandbox.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_ThemeOverlay_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::MaterialDesignSandbox.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V21_Theme_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V21_Theme_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V22_Theme_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V22_Theme_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V23_Theme_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V23_Theme_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V7_Theme_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V7_Theme_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::MaterialDesignSandbox.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActionButton = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActionMode = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Button = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Button_Small = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_EditText = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ImageButton = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ListView = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_RatingBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_SearchView = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_SeekBar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Spinner = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Toolbar = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::MaterialDesignSandbox.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_ThemeOverlay_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_V11_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_V11_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_V14_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_V14_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Platform_Widget_AppCompat_Spinner = global::MaterialDesignSandbox.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::MaterialDesignSandbox.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::MaterialDesignSandbox.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::MaterialDesignSandbox.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Body1 = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Body2 = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Button = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Caption = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Display1 = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Display2 = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Display3 = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Display4 = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Headline = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Large = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Medium = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Menu = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Small = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Subhead = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Title = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_StatusBar_EventContent = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::MaterialDesignSandbox.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_CompactMenu = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Dialog_Alert = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Light_Dialog = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Theme_AppCompat_NoActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.ThemeOverlay_AppCompat = global::MaterialDesignSandbox.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.ThemeOverlay_AppCompat_Dark = global::MaterialDesignSandbox.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.ThemeOverlay_AppCompat_Light = global::MaterialDesignSandbox.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActionButton = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActionMode = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ActivityChooserView = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Button = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Button_Borderless = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Button_Colored = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Button_Small = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ButtonBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_EditText = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ImageButton = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionButton = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_SearchView = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ListPopupWindow = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ListView = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ListView_DropDown = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ListView_Menu = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_PopupMenu = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_PopupWindow = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ProgressBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_RatingBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_SearchView = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_SeekBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Spinner = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Toolbar = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Supermortal.Common.Droid.Classes.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::MaterialDesignSandbox.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_background = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_background;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_backgroundSplit = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_backgroundStacked = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_contentInsetEnd = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_contentInsetLeft = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_contentInsetRight = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_contentInsetStart = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_customNavigationLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_displayOptions = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_divider = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_divider;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_elevation = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_height = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_height;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_hideOnContentScroll = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_homeAsUpIndicator = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_homeLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_icon = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_icon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_itemPadding = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_logo = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_logo;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_navigationMode = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_popupTheme = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_progressBarPadding = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_progressBarStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_subtitle = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_subtitleTextStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_title = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_title;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBar_titleTextStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBarLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBarLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMenuItemView = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMenuItemView_android_minWidth = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMenuView = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMenuView;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMode = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMode_background = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMode_background;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMode_backgroundSplit = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMode_closeItemLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMode_height = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMode_height;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMode_subtitleTextStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActionMode_titleTextStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActivityChooserView = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActivityChooserView;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ActivityChooserView_initialActivityCount = global::MaterialDesignSandbox.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AlertDialog = global::MaterialDesignSandbox.Droid.Resource.Styleable.AlertDialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AlertDialog_android_layout = global::MaterialDesignSandbox.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AlertDialog_listItemLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AlertDialog_listLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AppCompatTextView = global::MaterialDesignSandbox.Droid.Resource.Styleable.AppCompatTextView;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AppCompatTextView_android_textAppearance = global::MaterialDesignSandbox.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.AppCompatTextView_textAllCaps = global::MaterialDesignSandbox.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ButtonBarLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ButtonBarLayout_allowStacking = global::MaterialDesignSandbox.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.CompoundButton = global::MaterialDesignSandbox.Droid.Resource.Styleable.CompoundButton;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.CompoundButton_android_button = global::MaterialDesignSandbox.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.CompoundButton_buttonTint = global::MaterialDesignSandbox.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.CompoundButton_buttonTintMode = global::MaterialDesignSandbox.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.DrawerArrowToggle = global::MaterialDesignSandbox.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::MaterialDesignSandbox.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::MaterialDesignSandbox.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.DrawerArrowToggle_barLength = global::MaterialDesignSandbox.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.DrawerArrowToggle_color = global::MaterialDesignSandbox.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.DrawerArrowToggle_drawableSize = global::MaterialDesignSandbox.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::MaterialDesignSandbox.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.DrawerArrowToggle_spinBars = global::MaterialDesignSandbox.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.DrawerArrowToggle_thickness = global::MaterialDesignSandbox.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_android_gravity = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_android_orientation = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_divider = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_showDividers = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_Layout = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::MaterialDesignSandbox.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ListPopupWindow = global::MaterialDesignSandbox.Droid.Resource.Styleable.ListPopupWindow;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::MaterialDesignSandbox.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::MaterialDesignSandbox.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuGroup = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuGroup;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuGroup_android_checkableBehavior = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuGroup_android_enabled = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuGroup_android_id = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuGroup_android_menuCategory = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuGroup_android_orderInCategory = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuGroup_android_visible = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_actionLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_actionProviderClass = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_actionViewClass = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_checkable = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_checked = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_enabled = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_icon = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_id = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_menuCategory = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_numericShortcut = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_onClick = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_orderInCategory = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_title = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_titleCondensed = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_android_visible = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuItem_showAsAction = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuView = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuView;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuView_android_headerBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuView_android_horizontalDivider = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuView_android_itemBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuView_android_itemTextAppearance = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuView_android_verticalDivider = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuView_android_windowAnimationStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.MenuView_preserveIconSpacing = global::MaterialDesignSandbox.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.PopupWindow = global::MaterialDesignSandbox.Droid.Resource.Styleable.PopupWindow;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.PopupWindow_android_popupBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.PopupWindow_overlapAnchor = global::MaterialDesignSandbox.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.PopupWindowBackgroundState = global::MaterialDesignSandbox.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::MaterialDesignSandbox.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_android_focusable = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_android_imeOptions = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_android_inputType = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_android_maxWidth = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_closeIcon = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_commitIcon = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_defaultQueryHint = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_goIcon = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_iconifiedByDefault = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_layout = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_layout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_queryBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_queryHint = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_searchHintIcon = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_searchIcon = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_submitBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_suggestionRowLayout = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SearchView_voiceIcon = global::MaterialDesignSandbox.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Spinner = global::MaterialDesignSandbox.Droid.Resource.Styleable.Spinner;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Spinner_android_dropDownWidth = global::MaterialDesignSandbox.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Spinner_android_popupBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Spinner_android_prompt = global::MaterialDesignSandbox.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Spinner_popupTheme = global::MaterialDesignSandbox.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_android_textOff = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_android_textOn = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_android_thumb = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_showText = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_splitTrack = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_switchMinWidth = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_switchPadding = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_switchTextAppearance = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_thumbTextPadding = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.SwitchCompat_track = global::MaterialDesignSandbox.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance_android_shadowColor = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance_android_shadowDx = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance_android_shadowDy = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance_android_shadowRadius = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance_android_textColor = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance_android_textSize = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance_android_textStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance_android_typeface = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.TextAppearance_textAllCaps = global::MaterialDesignSandbox.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarDivider = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarDivider;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarItemBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarItemBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarPopupTheme = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarPopupTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarSize = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarSize;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarSplitStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarSplitStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarTabBarStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarTabBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarTabStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarTabStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarTabTextStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarTabTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarTheme = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionBarWidgetTheme = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionBarWidgetTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionDropDownStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionDropDownStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionMenuTextAppearance = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionMenuTextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionMenuTextColor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionMenuTextColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeCloseButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeCloseButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeCloseDrawable = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeCloseDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeCopyDrawable = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeCopyDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeCutDrawable = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeCutDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeFindDrawable = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeFindDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModePasteDrawable = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModePasteDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModePopupWindowStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModePopupWindowStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeSelectAllDrawable = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeSelectAllDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeShareDrawable = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeShareDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeSplitBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeSplitBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionModeWebSearchDrawable = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionModeWebSearchDrawable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionOverflowButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionOverflowButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_actionOverflowMenuStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_actionOverflowMenuStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_activityChooserViewStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_activityChooserViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_alertDialogButtonGroupStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_alertDialogButtonGroupStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_alertDialogCenterButtons = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_alertDialogCenterButtons;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_alertDialogStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_alertDialogStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_alertDialogTheme = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_alertDialogTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_android_windowAnimationStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_android_windowAnimationStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_android_windowIsFloating = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_android_windowIsFloating;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_autoCompleteTextViewStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_autoCompleteTextViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_borderlessButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_borderlessButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_buttonBarButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_buttonBarButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_buttonBarNegativeButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_buttonBarNegativeButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_buttonBarNeutralButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_buttonBarNeutralButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_buttonBarPositiveButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_buttonBarPositiveButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_buttonBarStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_buttonBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_buttonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_buttonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_buttonStyleSmall = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_buttonStyleSmall;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_checkboxStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_checkboxStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_checkedTextViewStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_checkedTextViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_colorAccent = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_colorAccent;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_colorButtonNormal = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_colorButtonNormal;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_colorControlActivated = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_colorControlActivated;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_colorControlHighlight = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_colorControlHighlight;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_colorControlNormal = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_colorControlNormal;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_colorPrimary = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_colorPrimary;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_colorPrimaryDark = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_colorPrimaryDark;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_colorSwitchThumbNormal = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_colorSwitchThumbNormal;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_controlBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_controlBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_dialogPreferredPadding = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_dialogPreferredPadding;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_dialogTheme = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_dialogTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_dividerHorizontal = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_dividerHorizontal;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_dividerVertical = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_dividerVertical;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_dropDownListViewStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_dropDownListViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_dropdownListPreferredItemHeight = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_dropdownListPreferredItemHeight;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_editTextBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_editTextBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_editTextColor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_editTextColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_editTextStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_editTextStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_homeAsUpIndicator = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_homeAsUpIndicator;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_imageButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_imageButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_listChoiceBackgroundIndicator = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_listChoiceBackgroundIndicator;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_listDividerAlertDialog = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_listDividerAlertDialog;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_listPopupWindowStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_listPopupWindowStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_listPreferredItemHeight = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_listPreferredItemHeight;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_listPreferredItemHeightLarge = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_listPreferredItemHeightLarge;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_listPreferredItemHeightSmall = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_listPreferredItemHeightSmall;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_listPreferredItemPaddingLeft = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_listPreferredItemPaddingLeft;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_listPreferredItemPaddingRight = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_listPreferredItemPaddingRight;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_panelBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_panelBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_panelMenuListTheme = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_panelMenuListTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_panelMenuListWidth = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_panelMenuListWidth;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_popupMenuStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_popupMenuStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_popupWindowStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_popupWindowStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_radioButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_radioButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_ratingBarStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_ratingBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_searchViewStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_searchViewStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_seekBarStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_seekBarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_selectableItemBackground = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_selectableItemBackground;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_selectableItemBackgroundBorderless = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_selectableItemBackgroundBorderless;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_spinnerDropDownItemStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_spinnerDropDownItemStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_spinnerStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_spinnerStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_switchStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_switchStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_textAppearanceLargePopupMenu = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_textAppearanceLargePopupMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_textAppearanceListItem = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_textAppearanceListItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_textAppearanceListItemSmall = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_textAppearanceListItemSmall;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_textAppearanceSearchResultSubtitle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_textAppearanceSearchResultSubtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_textAppearanceSearchResultTitle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_textAppearanceSearchResultTitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_textAppearanceSmallPopupMenu = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_textAppearanceSmallPopupMenu;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_textColorAlertDialogListItem = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_textColorAlertDialogListItem;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_textColorSearchUrl = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_textColorSearchUrl;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_toolbarNavigationButtonStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_toolbarNavigationButtonStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_toolbarStyle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_toolbarStyle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowActionBar = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowActionBar;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowActionBarOverlay = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowActionBarOverlay;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowActionModeOverlay = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowActionModeOverlay;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowFixedHeightMajor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowFixedHeightMajor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowFixedHeightMinor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowFixedHeightMinor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowFixedWidthMajor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowFixedWidthMajor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowFixedWidthMinor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowFixedWidthMinor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowMinWidthMajor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowMinWidthMajor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowMinWidthMinor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowMinWidthMinor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Theme_windowNoTitle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Theme_windowNoTitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_android_gravity = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_android_minHeight = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_collapseContentDescription = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_collapseIcon = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_contentInsetEnd = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_contentInsetLeft = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_contentInsetRight = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_contentInsetStart = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_logo = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_logo;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_logoDescription = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_maxButtonHeight = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_navigationContentDescription = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_navigationIcon = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_popupTheme = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_subtitle = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_subtitleTextAppearance = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_subtitleTextColor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_title = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_title;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_titleMarginBottom = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_titleMarginEnd = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_titleMarginStart = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_titleMarginTop = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_titleMargins = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_titleTextAppearance = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.Toolbar_titleTextColor = global::MaterialDesignSandbox.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.View = global::MaterialDesignSandbox.Droid.Resource.Styleable.View;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.View_android_focusable = global::MaterialDesignSandbox.Droid.Resource.Styleable.View_android_focusable;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.View_android_theme = global::MaterialDesignSandbox.Droid.Resource.Styleable.View_android_theme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.View_paddingEnd = global::MaterialDesignSandbox.Droid.Resource.Styleable.View_paddingEnd;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.View_paddingStart = global::MaterialDesignSandbox.Droid.Resource.Styleable.View_paddingStart;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.View_theme = global::MaterialDesignSandbox.Droid.Resource.Styleable.View_theme;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ViewBackgroundHelper = global::MaterialDesignSandbox.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ViewBackgroundHelper_android_background = global::MaterialDesignSandbox.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::MaterialDesignSandbox.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::MaterialDesignSandbox.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ViewStubCompat = global::MaterialDesignSandbox.Droid.Resource.Styleable.ViewStubCompat;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ViewStubCompat_android_id = global::MaterialDesignSandbox.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ViewStubCompat_android_inflatedId = global::MaterialDesignSandbox.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Supermortal.Common.Droid.Classes.Resource.Styleable.ViewStubCompat_android_layout = global::MaterialDesignSandbox.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -1796,8 +3020,8 @@ namespace MaterialDesignSandbox.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0a0072
-			public const int action0 = 2131361906;
+			// aapt resource value: 0x7f0a0074
+			public const int action0 = 2131361908;
 			
 			// aapt resource value: 0x7f0a005a
 			public const int action_bar = 2131361882;
@@ -1823,8 +3047,8 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0a005b
 			public const int action_context_bar = 2131361883;
 			
-			// aapt resource value: 0x7f0a0076
-			public const int action_divider = 2131361910;
+			// aapt resource value: 0x7f0a0078
+			public const int action_divider = 2131361912;
 			
 			// aapt resource value: 0x7f0a0004
 			public const int action_menu_divider = 2131361796;
@@ -1859,8 +3083,8 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0a0044
 			public const int buttonPanel = 2131361860;
 			
-			// aapt resource value: 0x7f0a0073
-			public const int cancel_action = 2131361907;
+			// aapt resource value: 0x7f0a0075
+			public const int cancel_action = 2131361909;
 			
 			// aapt resource value: 0x7f0a0014
 			public const int center = 2131361812;
@@ -1874,8 +3098,8 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0a0052
 			public const int checkbox = 2131361874;
 			
-			// aapt resource value: 0x7f0a0079
-			public const int chronometer = 2131361913;
+			// aapt resource value: 0x7f0a007b
+			public const int chronometer = 2131361915;
 			
 			// aapt resource value: 0x7f0a001d
 			public const int clip_horizontal = 2131361821;
@@ -1916,14 +3140,17 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0a0027
 			public const int disableHome = 2131361831;
 			
+			// aapt resource value: 0x7f0a0071
+			public const int drawer_layout = 2131361905;
+			
 			// aapt resource value: 0x7f0a005c
 			public const int edit_query = 2131361884;
 			
 			// aapt resource value: 0x7f0a0017
 			public const int end = 2131361815;
 			
-			// aapt resource value: 0x7f0a007e
-			public const int end_padder = 2131361918;
+			// aapt resource value: 0x7f0a0080
+			public const int end_padder = 2131361920;
 			
 			// aapt resource value: 0x7f0a000b
 			public const int enterAlways = 2131361803;
@@ -1967,8 +3194,8 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0a003f
 			public const int image = 2131361855;
 			
-			// aapt resource value: 0x7f0a007d
-			public const int info = 2131361917;
+			// aapt resource value: 0x7f0a007f
+			public const int info = 2131361919;
 			
 			// aapt resource value: 0x7f0a0001
 			public const int item_touch_helper_previous_elevation = 2131361793;
@@ -1976,11 +3203,14 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0a0019
 			public const int left = 2131361817;
 			
-			// aapt resource value: 0x7f0a0077
-			public const int line1 = 2131361911;
+			// aapt resource value: 0x7f0a0073
+			public const int left_drawer = 2131361907;
 			
-			// aapt resource value: 0x7f0a007b
-			public const int line3 = 2131361915;
+			// aapt resource value: 0x7f0a0079
+			public const int line1 = 2131361913;
+			
+			// aapt resource value: 0x7f0a007d
+			public const int line3 = 2131361917;
 			
 			// aapt resource value: 0x7f0a0025
 			public const int listMode = 2131361829;
@@ -1988,11 +3218,11 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0a0041
 			public const int list_item = 2131361857;
 			
-			// aapt resource value: 0x7f0a0071
-			public const int main_content = 2131361905;
+			// aapt resource value: 0x7f0a0072
+			public const int main = 2131361906;
 			
-			// aapt resource value: 0x7f0a0075
-			public const int media_actions = 2131361909;
+			// aapt resource value: 0x7f0a0077
+			public const int media_actions = 2131361911;
 			
 			// aapt resource value: 0x7f0a0033
 			public const int middle = 2131361843;
@@ -2126,8 +3356,8 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0a001b
 			public const int start = 2131361819;
 			
-			// aapt resource value: 0x7f0a0074
-			public const int status_bar_latest_event_content = 2131361908;
+			// aapt resource value: 0x7f0a0076
+			public const int status_bar_latest_event_content = 2131361910;
 			
 			// aapt resource value: 0x7f0a0065
 			public const int submit_area = 2131361893;
@@ -2135,17 +3365,17 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0a0026
 			public const int tabMode = 2131361830;
 			
-			// aapt resource value: 0x7f0a007c
-			public const int text = 2131361916;
+			// aapt resource value: 0x7f0a007e
+			public const int text = 2131361918;
 			
-			// aapt resource value: 0x7f0a007a
-			public const int text2 = 2131361914;
+			// aapt resource value: 0x7f0a007c
+			public const int text2 = 2131361916;
 			
 			// aapt resource value: 0x7f0a004d
 			public const int textSpacerNoButtons = 2131361869;
 			
-			// aapt resource value: 0x7f0a0078
-			public const int time = 2131361912;
+			// aapt resource value: 0x7f0a007a
+			public const int time = 2131361914;
 			
 			// aapt resource value: 0x7f0a0043
 			public const int title = 2131361859;
@@ -2330,46 +3560,52 @@ namespace MaterialDesignSandbox.Droid
 			public const int design_navigation_menu_item = 2130968611;
 			
 			// aapt resource value: 0x7f040024
-			public const int Main = 2130968612;
+			public const int DrawerItem = 2130968612;
 			
 			// aapt resource value: 0x7f040025
-			public const int notification_media_action = 2130968613;
+			public const int Main = 2130968613;
 			
 			// aapt resource value: 0x7f040026
-			public const int notification_media_cancel_action = 2130968614;
+			public const int notification_media_action = 2130968614;
 			
 			// aapt resource value: 0x7f040027
-			public const int notification_template_big_media = 2130968615;
+			public const int notification_media_cancel_action = 2130968615;
 			
 			// aapt resource value: 0x7f040028
-			public const int notification_template_big_media_narrow = 2130968616;
+			public const int notification_template_big_media = 2130968616;
 			
 			// aapt resource value: 0x7f040029
-			public const int notification_template_lines = 2130968617;
+			public const int notification_template_big_media_narrow = 2130968617;
 			
 			// aapt resource value: 0x7f04002a
-			public const int notification_template_media = 2130968618;
+			public const int notification_template_lines = 2130968618;
 			
 			// aapt resource value: 0x7f04002b
-			public const int notification_template_part_chronometer = 2130968619;
+			public const int notification_template_media = 2130968619;
 			
 			// aapt resource value: 0x7f04002c
-			public const int notification_template_part_time = 2130968620;
+			public const int notification_template_part_chronometer = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int select_dialog_item_material = 2130968621;
+			public const int notification_template_part_time = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int select_dialog_multichoice_material = 2130968622;
+			public const int select_dialog_item_material = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int select_dialog_singlechoice_material = 2130968623;
+			public const int select_dialog_multichoice_material = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int support_simple_spinner_dropdown_item = 2130968624;
+			public const int select_dialog_singlechoice_material = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int Toolbar = 2130968625;
+			public const int support_simple_spinner_dropdown_item = 2130968625;
+			
+			// aapt resource value: 0x7f040032
+			public const int TestFragment = 2130968626;
+			
+			// aapt resource value: 0x7f040033
+			public const int Toolbar = 2130968627;
 			
 			static Layout()
 			{
@@ -2400,8 +3636,14 @@ namespace MaterialDesignSandbox.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f0b0021
-			public const int a_name_is_required = 2131427361;
+			// aapt resource value: 0x7f0b0017
+			public const int ApplicationName = 2131427351;
+			
+			// aapt resource value: 0x7f0b0016
+			public const int Hello = 2131427350;
+			
+			// aapt resource value: 0x7f0b0024
+			public const int a_name_is_required = 2131427364;
 			
 			// aapt resource value: 0x7f0b0002
 			public const int abc_action_bar_home_description = 2131427330;
@@ -2460,8 +3702,8 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0b0014
 			public const int abc_toolbar_collapse_description = 2131427348;
 			
-			// aapt resource value: 0x7f0b0017
-			public const int app_name = 2131427351;
+			// aapt resource value: 0x7f0b001a
+			public const int app_name = 2131427354;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int appbar_scrolling_view_behavior = 2131427328;
@@ -2469,77 +3711,80 @@ namespace MaterialDesignSandbox.Droid
 			// aapt resource value: 0x7f0b0001
 			public const int character_counter_pattern = 2131427329;
 			
-			// aapt resource value: 0x7f0b0019
-			public const int closeDrawer = 2131427353;
-			
-			// aapt resource value: 0x7f0b0020
-			public const int confirm_email_address = 2131427360;
-			
-			// aapt resource value: 0x7f0b001e
-			public const int confirm_password = 2131427358;
-			
-			// aapt resource value: 0x7f0b001f
-			public const int email_address = 2131427359;
-			
-			// aapt resource value: 0x7f0b002b
-			public const int email_already_in_use = 2131427371;
-			
-			// aapt resource value: 0x7f0b0028
-			public const int email_does_not_match = 2131427368;
-			
-			// aapt resource value: 0x7f0b0024
-			public const int email_is_required = 2131427364;
-			
-			// aapt resource value: 0x7f0b002a
-			public const int email_must_be_valid = 2131427370;
-			
-			// aapt resource value: 0x7f0b0016
-			public const int hello = 2131427350;
-			
-			// aapt resource value: 0x7f0b0018
-			public const int openDrawer = 2131427352;
-			
-			// aapt resource value: 0x7f0b001d
-			public const int password = 2131427357;
-			
-			// aapt resource value: 0x7f0b0027
-			public const int password_does_not_match = 2131427367;
-			
-			// aapt resource value: 0x7f0b0026
-			public const int password_is_required = 2131427366;
+			// aapt resource value: 0x7f0b001c
+			public const int closeDrawer = 2131427356;
 			
 			// aapt resource value: 0x7f0b0023
-			public const int register = 2131427363;
+			public const int confirm_email_address = 2131427363;
+			
+			// aapt resource value: 0x7f0b0021
+			public const int confirm_password = 2131427361;
+			
+			// aapt resource value: 0x7f0b0022
+			public const int email_address = 2131427362;
 			
 			// aapt resource value: 0x7f0b002e
-			public const int remember_me = 2131427374;
+			public const int email_already_in_use = 2131427374;
+			
+			// aapt resource value: 0x7f0b002b
+			public const int email_does_not_match = 2131427371;
+			
+			// aapt resource value: 0x7f0b0027
+			public const int email_is_required = 2131427367;
+			
+			// aapt resource value: 0x7f0b002d
+			public const int email_must_be_valid = 2131427373;
+			
+			// aapt resource value: 0x7f0b0019
+			public const int hello = 2131427353;
+			
+			// aapt resource value: 0x7f0b0018
+			public const int library_name = 2131427352;
 			
 			// aapt resource value: 0x7f0b001b
-			public const int riff_name = 2131427355;
+			public const int openDrawer = 2131427355;
 			
-			// aapt resource value: 0x7f0b001a
-			public const int save = 2131427354;
+			// aapt resource value: 0x7f0b0020
+			public const int password = 2131427360;
+			
+			// aapt resource value: 0x7f0b002a
+			public const int password_does_not_match = 2131427370;
+			
+			// aapt resource value: 0x7f0b0029
+			public const int password_is_required = 2131427369;
+			
+			// aapt resource value: 0x7f0b0026
+			public const int register = 2131427366;
+			
+			// aapt resource value: 0x7f0b0031
+			public const int remember_me = 2131427377;
+			
+			// aapt resource value: 0x7f0b001e
+			public const int riff_name = 2131427358;
+			
+			// aapt resource value: 0x7f0b001d
+			public const int save = 2131427357;
 			
 			// aapt resource value: 0x7f0b0015
 			public const int status_bar_notification_info_overflow = 2131427349;
 			
-			// aapt resource value: 0x7f0b0029
-			public const int strong_password_is_required = 2131427369;
-			
-			// aapt resource value: 0x7f0b0022
-			public const int submit = 2131427362;
-			
-			// aapt resource value: 0x7f0b001c
-			public const int user_name = 2131427356;
-			
 			// aapt resource value: 0x7f0b002c
-			public const int user_name_already_in_use = 2131427372;
+			public const int strong_password_is_required = 2131427372;
 			
 			// aapt resource value: 0x7f0b0025
-			public const int user_name_is_required = 2131427365;
+			public const int submit = 2131427365;
 			
-			// aapt resource value: 0x7f0b002d
-			public const int user_name_or_password_is_incorrect = 2131427373;
+			// aapt resource value: 0x7f0b001f
+			public const int user_name = 2131427359;
+			
+			// aapt resource value: 0x7f0b002f
+			public const int user_name_already_in_use = 2131427375;
+			
+			// aapt resource value: 0x7f0b0028
+			public const int user_name_is_required = 2131427368;
+			
+			// aapt resource value: 0x7f0b0030
+			public const int user_name_or_password_is_incorrect = 2131427376;
 			
 			static String()
 			{
