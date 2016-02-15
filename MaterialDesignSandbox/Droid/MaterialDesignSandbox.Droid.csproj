@@ -54,6 +54,12 @@
     <Reference Include="Xamarin.Android.Support.v7.AppCompat">
       <HintPath>..\packages\Xamarin.Android.Support.v7.AppCompat.23.1.1.0\lib\MonoAndroid403\Xamarin.Android.Support.v7.AppCompat.dll</HintPath>
     </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.RecyclerView">
+      <HintPath>..\packages\Xamarin.Android.Support.v7.RecyclerView.23.1.1.0\lib\MonoAndroid403\Xamarin.Android.Support.v7.RecyclerView.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.Design">
+      <HintPath>..\packages\Xamarin.Android.Support.Design.23.1.1.0\lib\MonoAndroid403\Xamarin.Android.Support.Design.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MaterialDesignSandbox\MaterialDesignSandbox.csproj">
@@ -99,6 +105,8 @@
     <AndroidResource Include="Resources\drawable\MainButton.xml" />
     <AndroidResource Include="Resources\drawable\SecondaryButton.xml" />
     <AndroidResource Include="Resources\drawable\TertiaryButton.xml" />
+    <AndroidResource Include="Resources\drawable\CallToActionButton.xml" />
+    <AndroidResource Include="Resources\drawable\CallToActionSecondaryButton.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <ItemGroup>
