@@ -12,6 +12,6 @@
 	<item type="color" name="tertiaryButton">#836b52</item>
 	<item type="color" name="tertiaryButtonPressed">#d2a069</item>
 	<item type="color" name="text">#ffffff</item>
-	<item type="color" name="callToAction">#b4e600</item>
+	<item type="color" name="callToAction">#c4e64d</item>
 	<item type="color" name="callToActionSecondary">#4bb45e</item>
 </resources>
