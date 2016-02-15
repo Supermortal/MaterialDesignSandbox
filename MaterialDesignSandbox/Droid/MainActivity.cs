@@ -17,7 +17,7 @@ namespace MaterialDesignSandbox.Droid
 
             var toolbar = FindViewById<SupportToolbar>(Resource.Id.toolbar);
             SetSupportActionBar(toolbar);
-            SupportActionBar.Title = "Hello from Appcompat Toolbar";
+            SupportActionBar.Title = Resources.GetString(Resource.String.app_name);
         }
     }
 }
