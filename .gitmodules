@@ -4,6 +4,3 @@
 [submodule "Supermortal.Common.Droid.Classes"]
 	path = Supermortal.Common.Droid.Classes
 	url = https://github.com/Supermortal/Supermortal.Common.Droid.Classes.git
-[submodule "material-design-icons"]
-	path = material-design-icons
-	url = https://github.com/google/material-design-icons.git
