@@ -9,5 +9,7 @@
 	<item type="color" name="buttonPressed">#869454</item>
 	<item type="color" name="secondaryButton">#581d49</item>
 	<item type="color" name="secondaryButtonPressed">#3d2865</item>
+	<item type="color" name="tertiaryButton">#836b52</item>
+	<item type="color" name="tertiaryButtonPressed">#d2a069</item>
 	<item type="color" name="text">#ffffff</item>
 </resources>

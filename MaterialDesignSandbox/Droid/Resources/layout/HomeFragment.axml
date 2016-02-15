@@ -32,6 +32,13 @@
                 style="@style/ButtonStyle"
                 android:layout_height="wrap_content"
                 android:layout_width="wrap_content" />
+            <Button
+                android:layout_gravity="end"
+                android:background="@drawable/tertiarybutton"
+                android:text="Test Button 2"
+                style="@style/ButtonStyle"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" />
         </LinearLayout>
     </android.support.v7.widget.CardView>
     <Button
@@ -44,6 +51,13 @@
     <Button
         android:layout_gravity="end"
         android:background="@drawable/secondarybutton"
+        android:text="Test Button 2"
+        style="@style/ButtonStyle"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+    <Button
+        android:layout_gravity="end"
+        android:background="@drawable/tertiarybutton"
         android:text="Test Button 2"
         style="@style/ButtonStyle"
         android:layout_height="wrap_content"
