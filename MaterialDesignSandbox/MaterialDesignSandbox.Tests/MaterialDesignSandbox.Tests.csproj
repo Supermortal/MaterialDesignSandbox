@@ -40,4 +40,18 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Supermortal.Common.Mobile\Supermortal.Common.Mobile\Supermortal.Common.Mobile\Supermortal.Common.Mobile.csproj">
+      <Project>{3A0AD124-38A8-497E-9BA3-A06C3A4D6B1A}</Project>
+      <Name>Supermortal.Common.Mobile</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Supermortal.Common.PCL\Supermortal.Common.PCL\Supermortal.Common.PCL.csproj">
+      <Project>{48B2B177-BC6F-4D97-B2E9-6BA4C567D1BB}</Project>
+      <Name>Supermortal.Common.PCL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MaterialDesignSandbox\MaterialDesignSandbox.csproj">
+      <Project>{70EC6F2B-968B-420A-9C7C-DBCDBB3AFBFA}</Project>
+      <Name>MaterialDesignSandbox</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

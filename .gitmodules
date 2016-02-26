@@ -4,3 +4,6 @@
 [submodule "Supermortal.Common.Droid.Classes"]
 	path = Supermortal.Common.Droid.Classes
 	url = https://github.com/Supermortal/Supermortal.Common.Droid.Classes.git
+[submodule "Supermortal.Common.Mobile"]
+	path = Supermortal.Common.Mobile
+	url = https://github.com/Supermortal/Supermortal.Common.Mobile.git
